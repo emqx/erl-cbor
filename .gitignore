@@ -2,3 +2,4 @@ _build
 *.beam
 *.crashdump
 *.plt
+rebar.lock
